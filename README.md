@@ -8,7 +8,7 @@ Press any key and the computer will start the game by flashing a random colored 
 
 ## Technologies used
 
-Javascript, HTML, CSS
+Javascript, JQuery, HTML, CSS
 
 ## Features
 
