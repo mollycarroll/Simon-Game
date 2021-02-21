@@ -14,5 +14,3 @@ Javascript, HTML, CSS
 
 * Level display
 * Game win and lose conditions
-
-![Simon game](https://imgur.com/a/nZMQfR0)
